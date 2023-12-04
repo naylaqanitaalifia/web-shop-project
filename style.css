@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    overflow-x: hidden;
 }
 
 
@@ -249,10 +250,6 @@ footer .container {
     padding: 8px 0 24px 0;
     text-align: center;
 }
-
-
-
-
 
 
 /* BREAKPOINTS */
